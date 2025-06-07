@@ -29,7 +29,7 @@
 %                           some languages, especially FORTRAN, keeping
 %                           track is important!
 %
-%   It is also nice to give an example of usage, just incase it is not
+%   It is also nice to give an example of usage, just in case it is not
 %   super obvious, or if your function takes cool inputs, that may not
 %   be obvious from first glance. This function is kinda boring.
 %   Example 1 - Calculate the average of a simple array::

@@ -15,12 +15,19 @@
 #
 # @version 1.0
 #
-# The documentation follows the same format as the otehr files. There is
+# The documentation follows the same format as the other files. There is
 # a brief introduction, detail about the inputs, the outputs, and a brief 
-# example of how torun the file. Remember, this is for others to understand
+# example of how to run the file. Remember, this is for others to understand
 # the code, and also for you when you forget what you did in a few months.
 #
+# If this is more complicated, add that here as well. For example, if you
+# are using a specific library, or if there are any dependencies, you
+# should mention them here. This is a simple script, so there are no
+# dependencies, but it is good to keep in mind for future scripts.
+#
 # In doxygen, the input and output are given as @params.
+# The input argument types are given, as well as any appropriate units.
+#
 # @param argv1 - command line argument 1, a string representing the first number.
 #                This will be converted to a float.
 # @param argv2 - command line argument 2, a string representing the second number
